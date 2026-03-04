@@ -2,7 +2,7 @@
 
 > **Version:** 1.0  
 > **Platform:** Windows  
-> **Author:** Dexcom UI Tools Team  
+
 
 ---
 
