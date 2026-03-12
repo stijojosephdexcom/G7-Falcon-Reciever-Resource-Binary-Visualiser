@@ -1,4 +1,4 @@
-# Resource Font Visualizer — User Guide
+# Resource Binary Visualizer — User Guide
 
 > **Version:** 1.0  
 > **Platform:** Windows  
